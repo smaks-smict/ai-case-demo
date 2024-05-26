@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1716759547323,
+  "index": "https://smaks-smict.github.io/ai-case-demo/nl/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://smaks-smict.github.io/ai-case-demo/nl/203.c3561e0ca677d3b5.js",
+        "https://smaks-smict.github.io/ai-case-demo/nl/index.html",
+        "https://smaks-smict.github.io/ai-case-demo/nl/main.0d2203633947b2b0.js",
+        "https://smaks-smict.github.io/ai-case-demo/nl/polyfills.89ec2e0f1ced1913.js",
+        "https://smaks-smict.github.io/ai-case-demo/nl/runtime.86e0b32fa59ebb27.js",
+        "https://smaks-smict.github.io/ai-case-demo/nl/styles.54327f4e7683d01b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-128x128.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-144x144.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-152x152.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-192x192.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-32x32.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-384x384.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-512x512.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-96x96.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/img/favicon/favicon-16x16.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/img/favicon/favicon-32x32.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/assets/img/favicon/favicon-96x96.png",
+        "https://smaks-smict.github.io/ai-case-demo/nl/museosans-300-webfont.d3bcaca290441952.woff",
+        "https://smaks-smict.github.io/ai-case-demo/nl/museosans-300-webfont.fd33db082d7bf419.woff2",
+        "https://smaks-smict.github.io/ai-case-demo/nl/museosans-500-webfont.6a87285a108376e0.woff",
+        "https://smaks-smict.github.io/ai-case-demo/nl/museosans-500-webfont.ddf58588da3a058f.woff2",
+        "https://smaks-smict.github.io/ai-case-demo/nl/museosans-700-webfont.bdfe303f1f208d1b.woff",
+        "https://smaks-smict.github.io/ai-case-demo/nl/museosans-700-webfont.f4a2012813d240ea.woff2",
+        "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-light-webfont.02cd97e216b86438.woff",
+        "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-light-webfont.1320d08b4a1b3170.woff2",
+        "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-regular-webfont.67abeaf8f588519a.woff",
+        "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-regular-webfont.c36146275477a9f3.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://smaks-smict.github.io/ai-case-demo/nl/203.c3561e0ca677d3b5.js": "90c071fb010fc22a556baf0a12776bbff5fe710a",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-128x128.png": "2e0aa0423dbf2e4948f2429b1f4bd40dfe62bf56",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-144x144.png": "6c3d65954309b6ae20c7146ba572268f28627a15",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-152x152.png": "d95b390e64198e79923521035d3e241b4348089c",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-192x192.png": "18c836964b39ef9051fe2dc05f6038307715c1b9",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-32x32.png": "5148ca07dbf736a9612807b081746c7706aab6cd",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-384x384.png": "72cfa8684eb317767fc75c6225efb3c1f1d5e9c7",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-512x512.png": "6807dd60a89c06ad0052a4cff5a7f5eef331624d",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/icons/icon-96x96.png": "50497f304ac7da4926eca3bc54ff9536dc0710af",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/img/favicon/favicon-16x16.png": "fac0ae9136003c53d159038367cd394e7aafe46f",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/img/favicon/favicon-32x32.png": "5148ca07dbf736a9612807b081746c7706aab6cd",
+    "https://smaks-smict.github.io/ai-case-demo/nl/assets/img/favicon/favicon-96x96.png": "50497f304ac7da4926eca3bc54ff9536dc0710af",
+    "https://smaks-smict.github.io/ai-case-demo/nl/index.html": "7508580e3ce55d36b767a6fdf1a5d25e0f0a8882",
+    "https://smaks-smict.github.io/ai-case-demo/nl/main.0d2203633947b2b0.js": "636def1f51ea21d41dadc89818ae45e8fbdd779b",
+    "https://smaks-smict.github.io/ai-case-demo/nl/museosans-300-webfont.d3bcaca290441952.woff": "8025d7258ddeeb86eded7248a731ab313abc346f",
+    "https://smaks-smict.github.io/ai-case-demo/nl/museosans-300-webfont.fd33db082d7bf419.woff2": "aa8dd126707fab53577a85643b53a1ea63d8d524",
+    "https://smaks-smict.github.io/ai-case-demo/nl/museosans-500-webfont.6a87285a108376e0.woff": "b8825ae569b7466cb868988850a3ebbb2c80ee17",
+    "https://smaks-smict.github.io/ai-case-demo/nl/museosans-500-webfont.ddf58588da3a058f.woff2": "0f055b4d6c853c466159af062828b3f0aa531bd0",
+    "https://smaks-smict.github.io/ai-case-demo/nl/museosans-700-webfont.bdfe303f1f208d1b.woff": "ba616daaef5899e42e1bd1057a8b59946a7fbcaf",
+    "https://smaks-smict.github.io/ai-case-demo/nl/museosans-700-webfont.f4a2012813d240ea.woff2": "a38e5290f8e2cc238b49d9e035c4318c603b0d2d",
+    "https://smaks-smict.github.io/ai-case-demo/nl/polyfills.89ec2e0f1ced1913.js": "89a157475991b9c4132462591633c667657565bc",
+    "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-light-webfont.02cd97e216b86438.woff": "7b1f88d64920b46c57a4e42367f48766a035ef33",
+    "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-light-webfont.1320d08b4a1b3170.woff2": "911e326da68dffa6a0e4c36aeee8e9c66a80553d",
+    "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-regular-webfont.67abeaf8f588519a.woff": "0f8b5487d4c4aa3946fb4b73712be3c2612214ec",
+    "https://smaks-smict.github.io/ai-case-demo/nl/roboto-mono-kbc-regular-webfont.c36146275477a9f3.woff2": "a8ab477f74a4bdf42884f6e91eb952ee9bac7601",
+    "https://smaks-smict.github.io/ai-case-demo/nl/runtime.86e0b32fa59ebb27.js": "c265a2510e5ccd301113be49de7697135fb3c2d8",
+    "https://smaks-smict.github.io/ai-case-demo/nl/styles.54327f4e7683d01b.css": "cff1ddce9b4da3ac2905635fa111af9eef37d776"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
